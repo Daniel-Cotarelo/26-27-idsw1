@@ -38,3 +38,30 @@
 - [UML Actividad - Iteración 2](/entregas/cotareloDaniel/modelosUML/reto001_extension/04_Actividad/Iteracion_2.puml)
 - [UML Actividad - Iteración 3](/entregas/cotareloDaniel/modelosUML/reto001_extension/04_Actividad/Iteracion_3.puml)
 - [UML Actividad - Iteración 4](/entregas/cotareloDaniel/modelosUML/reto001_extension/04_Actividad/Iteracion_4.puml)
+
+
+## Imágenes PNG a partir de los PUML
+
+### Diagrama de colaboración
+- [Imagen Colaboración - Iteración 1](/entregas/cotareloDaniel/images/reto001_extension/01_Colaboracion/Iteracion_1.png)
+- [Imagen Colaboración - Iteración 2](/entregas/cotareloDaniel/images/reto001_extension/01_Colaboracion/Iteracion_2.png)
+- [Imagen Colaboración - Iteración 3](/entregas/cotareloDaniel/images/reto001_extension/01_Colaboracion/Iteracion_3.png)
+- [Imagen Colaboración - Iteración 4](/entregas/cotareloDaniel/images/reto001_extension/01_Colaboracion/Iteracion_4.png)
+
+### Diagrama de secuencia
+- [Imagen Secuencia - Iteración 1](/entregas/cotareloDaniel/images/reto001_extension/02_Secuencia/Iteracion_1.png)
+- [Imagen Secuencia - Iteración 2](/entregas/cotareloDaniel/images/reto001_extension/02_Secuencia/Iteracion_2.png)
+- [Imagen Secuencia - Iteración 3](/entregas/cotareloDaniel/images/reto001_extension/02_Secuencia/Iteracion_3.png)
+- [Imagen Secuencia - Iteración 4](/entregas/cotareloDaniel/images/reto001_extension/02_Secuencia/Iteracion_4.png)
+
+### Diagrama de estados
+- [Imagen Estados - Iteración 1](/entregas/cotareloDaniel/images/reto001_extension/03_Estados/Iteracion_1.png)
+- [Imagen Estados - Iteración 2](/entregas/cotareloDaniel/images/reto001_extension/03_Estados/Iteracion_2.png)
+- [Imagen Estados - Iteración 3](/entregas/cotareloDaniel/images/reto001_extension/03_Estados/Iteracion_3.png)
+- [Imagen Estados - Iteración 4](/entregas/cotareloDaniel/images/reto001_extension/03_Estados/Iteracion_4.png)
+
+### Diagrama de actividad
+- [Imagen Actividad - Iteración 1](/entregas/cotareloDaniel/images/reto001_extension/04_Actividad/Iteracion_1.png)
+- [Imagen Actividad - Iteración 2](/entregas/cotareloDaniel/images/reto001_extension/04_Actividad/Iteracion_2.png)
+- [Imagen Actividad - Iteración 3](/entregas/cotareloDaniel/images/reto001_extension/04_Actividad/Iteracion_3.png)
+- [Imagen Actividad - Iteración 4](/entregas/cotareloDaniel/images/reto001_extension/04_Actividad/Iteracion_4.png)
